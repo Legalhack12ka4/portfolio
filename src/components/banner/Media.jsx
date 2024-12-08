@@ -14,7 +14,7 @@ const Media = () => {
               <FaTwitter />
             </span> */}
           <a
-            href="https://www.linkedin.com/in/vimlesh-kumhar-7b72a9217>utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+            href="https://www.linkedin.com/in/vimlesh-kumhar-7b72a9217?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
             target="_blank"
           >
             <span className="bannerIcon">
